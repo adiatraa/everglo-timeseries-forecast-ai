@@ -1,0 +1,42 @@
+[
+  {
+    "growthType": "COCOPEAT",
+    "isActive": 1,
+    "dayOfPlanted": "2024-06-20 23:00:00",
+    "weightOfHarvest": 1231.3042629276704,
+    "createdAt": "2024-06-20 23:00:00",
+    "updatedAt": "2024-06-20 23:00:00"
+  },
+  {
+    "growthType": "COCOPEAT",
+    "isActive": 1,
+    "dayOfPlanted": "2024-06-21 03:00:00",
+    "weightOfHarvest": 2399.163404836251,
+    "createdAt": "2024-06-21 03:00:00",
+    "updatedAt": "2024-06-21 03:00:00"
+  },
+  {
+    "growthType": "COCOPEAT",
+    "isActive": 1,
+    "dayOfPlanted": "2024-06-21 15:00:00",
+    "weightOfHarvest": 1705.4582170380747,
+    "createdAt": "2024-06-21 15:00:00",
+    "updatedAt": "2024-06-21 15:00:00"
+  },
+  {
+    "growthType": "COCOPEAT",
+    "isActive": 1,
+    "dayOfPlanted": "2024-06-21 23:00:00",
+    "weightOfHarvest": 2406.306160563499,
+    "createdAt": "2024-06-21 23:00:00",
+    "updatedAt": "2024-06-21 23:00:00"
+  },
+  {
+    "growthType": "COCOPEAT",
+    "isActive": 1,
+    "dayOfPlanted": "2024-06-22 15:00:00",
+    "weightOfHarvest": 1884.7464559940124,
+    "createdAt": "2024-06-22 15:00:00",
+    "updatedAt": "2024-06-22 15:00:00"
+  }
+]
